@@ -23,7 +23,7 @@ int main()
     gross_salary=basic_salary+dearness_allowance+house_rent_allowance;
     
    printf("\n basic_salary:%.2f",gross_salary);
-   printf("\n dearness_allowance:%.2f",gross_salary);
+   printf("\n dearness_allowance:%.2f",gross_salary)
    printf("\n house_rent_allowance:%.2f",gross_salary);
    
    printf("\n\n gross_salary:%.2f",gross_salary);
